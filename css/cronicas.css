@@ -32,6 +32,10 @@ form {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: url(../pics/thumb-1920-85585.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
 }
 
 #book-zoom {
